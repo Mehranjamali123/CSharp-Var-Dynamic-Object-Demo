@@ -1,0 +1,2 @@
+F:\3rd sem-project\var_dynamic_object\var_dynamic_object\obj\Debug\var_dynamic_object.csproj.AssemblyReference.cache
+F:\3rd sem-project\var_dynamic_object\var_dynamic_object\obj\Debug\var_dynamic_object.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var_dynamic_object", "var_dynamic_object\var_dynamic_object.csproj", "{94B821DD-A1FB-4FD3-8474-88C0BFB3C043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B821DD-A1FB-4FD3-8474-88C0BFB3C043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B821DD-A1FB-4FD3-8474-88C0BFB3C043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B821DD-A1FB-4FD3-8474-88C0BFB3C043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B821DD-A1FB-4FD3-8474-88C0BFB3C043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283EF82E-2C43-4C69-A1D8-3905EBA006F2}
+	EndGlobalSection
+EndGlobal
